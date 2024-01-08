@@ -10,7 +10,7 @@
 .happy-new-year{
     background-image: url(B9A1-New-Year-New-Mission/resources/Banner\ Image.png);
     /* padding: 44px; */
-    height: 700px;
+    height: 450px;
     width: 850px;
     
     background-size: contain;
@@ -78,4 +78,55 @@
     width: 750px;
     height: 500px;
 
+}
+.welcome-container{
+    width: 930px;
+    height: 500px;
+    background-image: url('B9A1-New-Year-New-Mission/resources/Vectorrr.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 200px ;
+    align-items: center;
+    margin-left: 175px;
+    padding: 0px;
+    display: flex;
+
+}
+
+.welcome-title1{
+    color: #FFF;
+    font-size: 34px;
+    font-weight: 900;
+    /* letter-spacing: 7.04px; */
+    margin: 0 ;
+    padding: 0 18px;
+
+    
+}
+.welcome-title{
+    color: #FFF;
+    font-size: 34px;
+    font-weight: 900;
+    /* letter-spacing: 7.04px; */
+    margin-top: 0;
+    padding: 0 18px;
+    
+}
+
+.welcome-img{
+    width: 190px;
+    height: 210px;
+    /* margin-top: 0;
+    padding-top: 0; */
+}
+.welcome-details{
+    color: #fff;
+    padding: 0 18px;
+    width: 600px;
+}
+.join{
+    margin: 0 18px;
+    background: transparent;
+    color: #fff;
+    cursor: pointer;
 }
