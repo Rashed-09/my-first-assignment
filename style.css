@@ -80,15 +80,15 @@
 
 }
 .welcome-container{
-    width: 930px;
+    width: 1030px;
     height: 500px;
     background-image: url('resources/Vectorrr.png');
     background-size: contain;
     background-repeat: no-repeat;
     margin-top: 200px ;
     align-items: center;
-    margin-left: 175px;
-    padding: 0px;
+    margin-left: 380px;
+    padding: 0 20px;
     display: flex;
 
 }
