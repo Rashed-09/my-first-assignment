@@ -1,0 +1,48 @@
+
+*{
+    font-family: 'Merriweather', serif;
+}
+    /* this is top banner section  */
+.full-banner{
+    padding: 10px 60px;
+}
+
+.happy-new-year{
+    background-image: url(B9A1-New-Year-New-Mission/resources/Banner\ Image.png);
+    /* padding: 44px; */
+    height: 700px;
+    width: 850px;
+    
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 130px;
+    
+}
+.banner-1{
+    
+    /* align-items: center; */
+    color: #fff;
+    margin-top: 5px;
+    padding-top: 0;
+
+}
+.banner-2{
+    /* align-items: center; */
+    margin-top: 2px;
+    padding-top: 0;
+    color: #fff;
+    text-align: center;
+    font-size: 44px;
+    font-weight: 900;
+}
+.banner-3{
+    margin-top: 2px;
+    padding-top: 0;
+    color: #FFF;
+    text-align: center;
+    font-size: 44px;
+    font-weight: 900;
+}
+
