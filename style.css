@@ -224,3 +224,72 @@ span{
     margin-top: 2px;
 
 }
+
+        /* this is portfolio section  */
+
+.full-portfolio{
+    width: 1090px;
+    margin: 60px auto;
+
+}
+.port-text-1{
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500;
+    font-family: sans-serif;
+    margin-bottom: 0;
+
+}
+.port-text-2{
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+    margin-top: 4px;
+}
+.port-text-3{
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 5px;
+    width: 790px;
+    /* margin-bottom: 10px; */
+}
+
+        /* portfolio img section  */
+
+.portfolio-img-1{
+    display: flex;
+    margin-top: 20px;
+}
+
+.port-img-1{
+    width: 363px;
+}
+.port-img-2{
+    width: 363px;
+    margin: 0 5px;
+}
+.port-img-3{
+    width: 363px;
+}
+
+
+
+
+
+.portfolio-img-2{
+    display: flex;
+    margin-top: 20px;
+}
+
+.port-img-4{
+    width: 363px;
+}
+.port-img-5{
+    width: 363px;
+    margin: 0 5px;
+}
+.port-img-6{
+    width: 363px;
+}
