@@ -8,7 +8,7 @@
 }
 
 .happy-new-year{
-    background-image: url(B9A1-New-Year-New-Mission/resources/Banner\ Image.png);
+    background-image: url('resources/Banner\ Image.png');
     /* padding: 44px; */
     height: 450px;
     width: 850px;
@@ -82,7 +82,7 @@
 .welcome-container{
     width: 930px;
     height: 500px;
-    background-image: url('B9A1-New-Year-New-Mission/resources/Vectorrr.png');
+    background-image: url('resources/Vectorrr.png');
     background-size: contain;
     background-repeat: no-repeat;
     margin-top: 200px ;
