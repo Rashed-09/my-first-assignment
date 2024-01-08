@@ -341,3 +341,54 @@ span{
     border-radius: 3px;
     
 }
+
+  /* This is last footer section  */
+
+.full-footer{
+    background: #070211;
+}
+.upper{
+    display: flex;
+    justify-content: space-between;
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 400;
+    width: 1100px;
+    margin: auto;
+    font-family: monospace;
+}
+hr{
+    width: 1100px;
+    color: rgba(46, 46, 46, 0.059);
+}
+.footer-address{
+    width: 400px;
+}
+
+.middle{
+    height: 92px;
+    display: flex;
+    width: 1100px;
+    margin: 5px auto;
+    align-items: center;
+    justify-content: inherit;
+
+}
+.website{
+    width: 64px;
+    height: 64px;
+    margin: 10px;
+    
+}
+.lower{
+    width: 1100px;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 10;
+    color: white;
+    margin: auto;
+    padding-bottom: 30px;
+    font-family: monospace;
+}
+
+                                /* finished The work  */
