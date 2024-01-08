@@ -130,3 +130,34 @@
     color: #fff;
     cursor: pointer;
 }
+
+        /* Time section  */
+
+.one-time{
+    margin: 55px 370px;
+    width: 1100px;
+    height: 400px;
+    background-color: #eedbc55d;
+    justify-content: center;
+    border-radius: 5px;
+    padding-top: 90px;
+}
+.time{
+    text-align: center;
+    margin-top: ;
+} 
+span{
+    color: red;
+}
+.join-now{
+    align-items: center;
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 700;
+    background-color: red;
+    border: none;
+    border-radius: 3px;
+    margin: 20px auto;
+    padding-top: 5px;
+    display: block;
+}  
